@@ -2,7 +2,7 @@
 # This script will download and add domains from the rep to whitelist.txt file.
 # Project homepage: https://github.com/anudeepND/whitelist
 # Licence: https://github.com/anudeepND/whitelist/blob/master/LICENSE
-# Created by Anudeep (Slight change by cminion)
+# Created by Anudeep (Slight change by cminion) (Edited by imsarg for AF use)
 #================================================================================
 TICK="[\e[32m ✔ \e[0m]"
 
@@ -16,7 +16,7 @@ if [ "$(id -u)" != "0" ] ; then
 	exit 2
 fi
 
-curl -sS https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt | sudo tee -a /etc/pihole/whitelist.txt >/dev/null
+curl -sS https://github.com/imsarg/whitelist/blob/master/domains/whitelist.txt | sudo tee -a /etc/pihole/whitelist.txt >/dev/null
 echo -e " ${TICK} \e[32m Adding to whitelist... \e[0m"
 sleep 0.1
 echo -e " ${TICK} \e[32m Removing duplicates... \e[0m"
@@ -29,6 +29,6 @@ echo -e " ${TICK} \e[32m Pi-hole's gravity updated \e[0m"
 echo -e " ${TICK} \e[32m Done! \e[0m"
 
 
-echo -e " \e[1m  Star me on GitHub, https://github.com/anudeepND/whitelist \e[0m"
+echo -e " \e[1m  Star the original creator on GitHub, https://github.com/anudeepND/whitelist \e[0m"
 echo -e " \e[1m  Happy AdBlocking :)\e[0m"
 echo -e "\n\n"
