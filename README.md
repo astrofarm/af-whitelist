@@ -20,7 +20,7 @@ Want to report a new domain? Want to report exsisting one? Feel free to file an 
 ### Main features:
        
 - The entire repo is curated.
-- New domains are added frequently.
+- New domains are manually added.
 - Comes with a shell script i.e you can add all domains automatically at an instant.
 - Domains are categorised and are included in 3 different files.
 - If you are a beginner to Pi-Hole, adding these sites resolves many problems. 
