@@ -37,7 +37,7 @@ Not currently used.
 ***For whitelist.txt***     
 ```
 git clone https://github.com/astrofarm/af-whitelist.git
-cd whitelist/scripts
+cd af-whitelist/scripts
 sudo chmod +x whitelist.sh
 sudo ./whitelist.sh
 ```
@@ -45,7 +45,7 @@ sudo ./whitelist.sh
 ***For referral-sites.txt***          
 ```
 git clone https://github.com/astrofarm/af-whitelist.git
-cd whitelist/scripts
+cd af-whitelist/scripts
 sudo chmod +x referral.sh
 sudo ./referral.sh
 ```
