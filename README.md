@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="550" src="https://raw.githubusercontent.com/anudeepND/whitelist/master/images/AF_logo.jpg">
+  <img width="550" src="https://raw.githubusercontent.com/astrofarm/whitelist/master/images/AF_logo.jpg">
 </p>
 <p align="center">
-  <img width="550" src="https://raw.githubusercontent.com/anudeepND/whitelist/master/images/logo.png">
+  <img width="550" src="https://raw.githubusercontent.com/astrofarm/whitelist/master/images/logo.png">
 </p>
 
 * * *
@@ -36,8 +36,8 @@ Not currently used.
          
 ***For whitelist.txt***     
 ```
-git clone https://github.com/astrofarm/af-.git
-cd whitelist/scripts
+git clone https://github.com/astrofarm/af-whitelist.git
+cd af-whitelist/scripts
 sudo chmod +x whitelist.sh
 sudo ./whitelist.sh
 ```
@@ -45,7 +45,7 @@ sudo ./whitelist.sh
 ***For referral-sites.txt***          
 ```
 git clone https://github.com/astrofarm/af-whitelist.git
-cd whitelist/scripts
+cd af-whitelist/scripts
 sudo chmod +x referral.sh
 sudo ./referral.sh
 ```
