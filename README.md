@@ -36,7 +36,7 @@ Not currently used.
          
 ***For whitelist.txt***     
 ```
-git clone https://github.com/astrofarm/af-.git
+git clone https://github.com/astrofarm/af-whitelist.git
 cd whitelist/scripts
 sudo chmod +x whitelist.sh
 sudo ./whitelist.sh
