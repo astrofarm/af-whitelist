@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="550" src="https://raw.githubusercontent.com/anudeepND/whitelist/master/images/AF_logo.jpg">
+  <img width="550" src="https://raw.githubusercontent.com/astrofarm/whitelist/master/images/AF_logo.jpg">
 </p>
 <p align="center">
-  <img width="550" src="https://raw.githubusercontent.com/anudeepND/whitelist/master/images/logo.png">
+  <img width="550" src="https://raw.githubusercontent.com/astrofarm/whitelist/master/images/logo.png">
 </p>
 
 * * *
