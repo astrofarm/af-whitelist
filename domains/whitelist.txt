@@ -252,3 +252,7 @@ mlccdnprod.azureedge.net
 videoplayercdn.osi.office.net
 fonts.googleapis.com
 mailchimp.com
+tracking.epicgames.com
+hubspot.com
+app.hubspot.com
+
